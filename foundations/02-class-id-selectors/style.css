@@ -1,0 +1,20 @@
+.Odd{
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+    background-color: lightpink;
+}
+
+#Two{
+    color: blue;
+    font-size: 36px;
+}
+
+#Three{
+    font-size: 24px;
+}
+
+#Four{
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight: bold;
+
+}
